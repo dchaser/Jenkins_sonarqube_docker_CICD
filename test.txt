@@ -1,2 +1,3 @@
 testing automated build 1.a
-testing automated build 1.a
+testing automated build 1.b
+testing automated build 1.c
